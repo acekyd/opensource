@@ -1,1 +1,1 @@
-This is a small repo to demonstrate the practical approach to contributing to open source at Forloop Ibadan.
+This is a small repo to demonstrate the practical approach to contributing to open source :D
